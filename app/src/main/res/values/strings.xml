@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidPHPMySQL</string>
+    <string name="already_registered_n_click_here_to_login">Already Registered ?  click Here to login</string>
+    <string name="register_user">Register User</string>
+    <string name="email">Email</string>
+    <string name="name">name</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
